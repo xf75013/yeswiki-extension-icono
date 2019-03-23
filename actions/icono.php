@@ -3,7 +3,7 @@
 icono.php	v0.4
 Copyright	xf75013 2019
 
-Permet d'integrer facilement dans la page une icone ou une image stockée dans des dossiers prédéfinis.
+Permet d'intÃ©grer facilement dans la page une icone ou une image stockÃ©e dans des dossiers prÃ©dÃ©finis.
 Ici les deux dossiers sont ./icono/ et ./images/ pour mes besoins particuliers.
 
 Usage :
@@ -20,7 +20,7 @@ $adrbase = "http://" . $_SERVER['SERVER_NAME'] . "/"; // cas particulier pour le
 $dossico = "icono/";
 $dossimg = "images/";
 
-// récuperation du parametres
+// rÃ©cuperation du paramÃ¨tres
 $ico = $this->GetParameter("ico");
 $img = $this->GetParameter("img");
 $type = $this->GetParameter("type");
