@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<plugin name="wkicono" version="0.1" active="1">
+  <author>Xavier Freymuth</author>
+  <label>Icono</label>
+  <desc>Permet d'integrer facilement dans la page une icone tirée d'une série d'images prédéfiniées</desc>
+</plugin>
